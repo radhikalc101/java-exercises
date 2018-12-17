@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/rad-java-exercises.iml" filepath="$PROJECT_DIR$/.idea/rad-java-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rad-java-exercises.iml" filepath="$PROJECT_DIR$/rad-java-exercises.iml" />
     </modules>
   </component>
 </project>

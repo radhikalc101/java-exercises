@@ -1,8 +1,8 @@
-package org.launchcode.java.exercises;
+package org.launchcode.java.studios;
 import java.util.HashMap;
 import java.util.Set;
 
-public class CountingCharectors {
+public class CountingCharacters {
 
     public static HashMap<Character, Integer> countingChars(String Sentence){
         HashMap<Character,Integer> myDict = new HashMap<>();
